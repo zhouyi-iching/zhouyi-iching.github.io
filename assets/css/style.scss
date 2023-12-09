@@ -11,6 +11,11 @@ h2 {
     font-weight: bold;
 }
 
+h2::before {
+  content: "\1F39E"; /* Unicode value for the document emoji */
+  margin-right: 5px; /* Adjust the value as needed */
+}
+
 // Hide this element <a href="">View My GitHub Profile</a>
 p.view {
   display: none;
