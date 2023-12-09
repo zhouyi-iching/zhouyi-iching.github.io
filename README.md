@@ -1,7 +1,4 @@
-# zhouyi-iching.github.io
+# 周易：妄想易經
 
-Testing GH pages
-Line four
-
-Testing only
-Another test
+ * [簡介](/introduction.md)
+ * [詳細解說](/details.md)
