@@ -20,3 +20,17 @@ h2::before {
 p.view {
   display: none;
 }
+
+
+ul {
+  list-style: none;
+}
+
+ul li::before {
+  content: "\25B6"; /* Unicode value for the play emoji */
+  margin-right: 10px; /* Adjust the value as needed */
+}
+
+ul li {
+  padding-left: 20px; /* Adjust the value as needed */
+}
