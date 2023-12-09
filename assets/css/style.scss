@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-ul {
-  padding-bottom: 40px;
-}
-
 h2 {
     font-weight: bold;
 }
@@ -29,8 +25,10 @@ p.view {
 
 ul {
   list-style-type: disclosure-closed;
+  padding-bottom: 40px;
+  padding-left: 55px;
 }
 
 ul li {
-  padding-left: 15px; /* Adjust the value as needed */
+  padding-left: 25px; /* Adjust the value as needed */
 }
