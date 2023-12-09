@@ -1,4 +1,4 @@
 # 目錄
 
- * [簡介](/introduction.md)
- * [詳細解說](/details.md)
+ * [簡介視頻](/introduction.md)
+ * [六十四卦：詳細解說](/details.md)
