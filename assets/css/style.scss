@@ -22,9 +22,13 @@ p.view {
 }
 
 
-h3::before {
-  content: "\25B6"; /* Unicode value for the play emoji */
-  margin-right: 10px; /* Adjust the value as needed */
+// h3::before {
+//   content: "\25B6"; /* Unicode value for the play emoji */
+//   margin-right: 10px; /* Adjust the value as needed */
+// }
+
+ul {
+  list-style-type: disclosure-closed;
 }
 
 ul li {
