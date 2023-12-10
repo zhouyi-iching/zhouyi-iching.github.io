@@ -328,20 +328,34 @@
 
 
 <script>
+
 // Get the TOC container element
 var tocContainer = document.getElementById('toc');
 
-// Get all the headings within the content
-var headings = document.querySelectorAll('h1, h2, h3');
+// Get all the H2 headings within the content
+var headings = document.querySelectorAll('h2');
+
+// Create an ordered list element
+var ol = document.createElement('ol');
 
 // Generate the TOC
 headings.forEach(function (heading) {
+  // Create a list item element for each heading
+  var li = document.createElement('li');
+  
   // Create a link element for each heading
   var link = document.createElement('a');
   link.href = '#' + heading.id;
   link.textContent = heading.textContent;
+  
+  // Append the link to the list item
+  li.appendChild(link);
+  
+  // Append the list item to the ordered list
+  ol.appendChild(li);
+});
 
-  // Append the link to the TOC container
-  tocContainer.appendChild(link);
-}); 
+// Append the ordered list to the TOC container
+tocContainer.appendChild(ol);
+   
 </script>
