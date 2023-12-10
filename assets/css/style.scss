@@ -32,3 +32,39 @@ ul {
 ul li {
   padding-left: 25px; /* Adjust the value as needed */
 }
+
+
+
+
+
+/* Style for the TOC container */
+#toc {
+  position: fixed;
+  top: 50px;
+  right: 20px;
+  width: 200px;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+/* Style for the TOC headings */
+#toc a {
+  display: block;
+  margin-left: 10px;
+}
+
+#toc h1 {
+  font-size: 18px;
+  margin-top: 0;
+}
+
+#toc h2 {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+#toc h3 {
+  font-size: 14px;
+  margin-top: 10px;
+}
