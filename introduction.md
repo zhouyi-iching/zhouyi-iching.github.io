@@ -1,6 +1,5 @@
 <div id="toc"></div>
 
-
 ## 前言
 
  * ### 《妄想易經》這個頻道關於什麼 
@@ -319,39 +318,43 @@
 
    [![Thumbnail](thumbnails/th_fqSRDBUiu84.jpg)](https://www.youtube.com/watch?v=fqSRDBUiu84)
 
+ * ### 《易經》 24 復卦 卦辭總結《妄想易經》 (**更新2023/11/19**) 
+
+   [![Thumbnail](thumbnails/th_drPK2oCAi0w.jpg)](https://www.youtube.com/watch?v=drPK2oCAi0w)
 
 
 
+    <script>
+      
+      // Get the TOC container element
+      var tocContainer = document.getElementById('toc');
+      
+      // Get all the H2 headings within the content
+      var headings = document.querySelectorAll('h2');
+      
+      // Create an ordered list element
+      var ol = document.createElement('ol');
+      
+      // Generate the TOC
+      headings.forEach(function (heading) {
+        // Create a list item element for each heading
+        var li = document.createElement('li');
+        
+        // Create a link element for each heading
+        var link = document.createElement('a');
+        link.href = '#' + heading.id;
+        link.textContent = heading.textContent;
+        
+        // Append the link to the list item
+        li.appendChild(link);
+        
+        // Append the list item to the ordered list
+        ol.appendChild(li);
+      });
+      
+      // Append the ordered list to the TOC container
+      tocContainer.appendChild(ol);
+       
+    </script>
 
-<script>
-
-// Get the TOC container element
-var tocContainer = document.getElementById('toc');
-
-// Get all the H2 headings within the content
-var headings = document.querySelectorAll('h2');
-
-// Create an ordered list element
-var ol = document.createElement('ol');
-
-// Generate the TOC
-headings.forEach(function (heading) {
-  // Create a list item element for each heading
-  var li = document.createElement('li');
-  
-  // Create a link element for each heading
-  var link = document.createElement('a');
-  link.href = '#' + heading.id;
-  link.textContent = heading.textContent;
-  
-  // Append the link to the list item
-  li.appendChild(link);
-  
-  // Append the list item to the ordered list
-  ol.appendChild(li);
-});
-
-// Append the ordered list to the TOC container
-tocContainer.appendChild(ol);
-   
-</script>
+    

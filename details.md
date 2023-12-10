@@ -1,3 +1,5 @@
+<div id="toc"></div>
+
 ## 01 乾卦 ( 天天乾) 爻辭故事《妄想易經》
 
  * ### 《易經》 01 乾卦 卦名意義《妄想易經》(**更新2023/6/8**) 
@@ -926,3 +928,39 @@
 
    [![Thumbnail](thumbnails/th_o9GWVknCOJQ.jpg)](https://www.youtube.com/watch?v=o9GWVknCOJQ)
 
+
+
+    <script>
+      
+      // Get the TOC container element
+      var tocContainer = document.getElementById('toc');
+      
+      // Get all the H2 headings within the content
+      var headings = document.querySelectorAll('h2');
+      
+      // Create an ordered list element
+      var ol = document.createElement('ol');
+      
+      // Generate the TOC
+      headings.forEach(function (heading) {
+        // Create a list item element for each heading
+        var li = document.createElement('li');
+        
+        // Create a link element for each heading
+        var link = document.createElement('a');
+        link.href = '#' + heading.id;
+        link.textContent = heading.textContent;
+        
+        // Append the link to the list item
+        li.appendChild(link);
+        
+        // Append the list item to the ordered list
+        ol.appendChild(li);
+      });
+      
+      // Append the ordered list to the TOC container
+      tocContainer.appendChild(ol);
+       
+    </script>
+
+    
