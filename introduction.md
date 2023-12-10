@@ -1,6 +1,5 @@
 <div id="toc"></div>
 
-<hr/>
 
 ## 前言
 
