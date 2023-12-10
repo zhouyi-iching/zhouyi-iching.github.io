@@ -1,8 +1,5 @@
-* TOC
-{:toc}
-```
+<div id="toc"></div>
 
-This tag will be replaced with the generated TOC when the page is rendered.
 
 <br/>
 <hr/>
@@ -329,10 +326,22 @@ This tag will be replaced with the generated TOC when the page is rendered.
 
 
 
-```
 
-The TOC will be generated based on these headings.
- * ### 《易經》 24 復卦 卦辭總結《妄想易經》 (**更新2023/11/19**) 
+<script>
+// Get the TOC container element
+var tocContainer = document.getElementById('toc');
 
-   [![Thumbnail](thumbnails/th_drPK2oCAi0w.jpg)](https://www.youtube.com/watch?v=drPK2oCAi0w)
+// Get all the headings within the content
+var headings = document.querySelectorAll('h1, h2, h3');
 
+// Generate the TOC
+headings.forEach(function (heading) {
+  // Create a link element for each heading
+  var link = document.createElement('a');
+  link.href = '#' + heading.id;
+  link.textContent = heading.textContent;
+
+  // Append the link to the TOC container
+  tocContainer.appendChild(link);
+}); 
+</script>
