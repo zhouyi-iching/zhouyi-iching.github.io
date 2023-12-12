@@ -21,6 +21,7 @@ Customizing the minimal theme
 
 1. Download the theme at:
    https://rubygems.org/gems/jekyll-theme-minimal/versions/0.2.0
+   https://rubygems.org/gems/jekyll-theme-cayman/versions/0.2.0
 
 2. Expand the archive.
 

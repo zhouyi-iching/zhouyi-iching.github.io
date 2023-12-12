@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+
+.project-name > a {
+    color: #fff;
+}
+
+
+
 // Override theme's settings
 section {
     max-width: 600px;
