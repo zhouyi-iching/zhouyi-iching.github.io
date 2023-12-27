@@ -51,7 +51,6 @@ title: 簡介視頻
 
 ## 1-64卦易經故事 (濃縮版) (不含爻辭解釋)
 
-Ignoring Private video / mk9Jyh7CSCg due to KeyError
  * ### 易經64卦故事(濃縮版) 前言 
 
    [![Thumbnail](thumbnails/th_CbZMhYqVQLg.jpg)](https://www.youtube.com/watch?v=CbZMhYqVQLg&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
