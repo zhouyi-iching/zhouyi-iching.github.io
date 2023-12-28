@@ -21,7 +21,7 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_EmmKzHHkP0s.jpg)](https://www.youtube.com/watch?v=EmmKzHHkP0s&list=PLoRTqlX8GVZfU0fvmf0RahuFTEIUM3H_C){:target="_blank"}
 
-## 從《易經》看動物
+## 從《易經》看動物《妄想易經》
 
  * ### 從《易經》看動物(龍)《妄想易經》 
 
@@ -151,6 +151,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_m-ZoAD4FTZI.jpg)](https://www.youtube.com/watch?v=m-ZoAD4FTZI&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
+ * ### 《易經》 25 無妄卦 上回故事 1/5《妄想易經》 (**更新2023/12/24**） 
+
+   [![Thumbnail](thumbnails/th_KPf7Lwx-X0o.jpg)](https://www.youtube.com/watch?v=KPf7Lwx-X0o&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+
  * ### 26 大畜卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_e3yIGxHXMTw.jpg)](https://www.youtube.com/watch?v=e3yIGxHXMTw&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
@@ -218,10 +222,6 @@ title: 簡介視頻
  * ### 42 益卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_0acHv1knLiI.jpg)](https://www.youtube.com/watch?v=0acHv1knLiI&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
- * ### 《易經》 25 無妄卦 上回故事《妄想易經》 (**更新2023/12/24**） 
-
-   [![Thumbnail](thumbnails/th_KPf7Lwx-X0o.jpg)](https://www.youtube.com/watch?v=KPf7Lwx-X0o&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
 ## 1-64卦易經卦辭總結 (濃縮版) (不含爻辭解釋)
 
@@ -325,7 +325,7 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_drPK2oCAi0w.jpg)](https://www.youtube.com/watch?v=drPK2oCAi0w&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
- * ### 《易經》 25 無妄卦 卦辭總結《妄想易經》 (**更新2023/12/24**） 
+ * ### 《易經》 25 無妄卦 卦辭總結 5/5《妄想易經》 (**更新2023/12/24**） 
 
    [![Thumbnail](thumbnails/th_HFsWSqoGbX0.jpg)](https://www.youtube.com/watch?v=HFsWSqoGbX0&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
