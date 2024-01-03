@@ -155,9 +155,9 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_KPf7Lwx-X0o.jpg)](https://www.youtube.com/watch?v=KPf7Lwx-X0o&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 26 大畜卦 上回故事《妄想易經》 
+ * ### 《易經》 26 大畜卦 (1/5) 上回故事 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_e3yIGxHXMTw.jpg)](https://www.youtube.com/watch?v=e3yIGxHXMTw&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+   [![Thumbnail](thumbnails/th_7AeR_z2BYJo.jpg)](https://www.youtube.com/watch?v=7AeR_z2BYJo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
  * ### 27 頤卦 上回故事《妄想易經》 
 
@@ -328,6 +328,10 @@ title: 簡介視頻
  * ### 《易經》 25 無妄卦 (5/5) 卦辭總結《妄想易經》 (**更新2023/12/24**） 
 
    [![Thumbnail](thumbnails/th_HFsWSqoGbX0.jpg)](https://www.youtube.com/watch?v=HFsWSqoGbX0&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+ * ### 《易經》 26 大畜卦 (5/5) 卦辭總結 《妄想易經》(**更新2024/1/2**） 
+
+   [![Thumbnail](thumbnails/th_EdXr449cugE.jpg)](https://www.youtube.com/watch?v=EdXr449cugE&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
 
 

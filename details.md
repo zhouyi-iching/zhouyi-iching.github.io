@@ -567,25 +567,25 @@ title: 六十四卦：詳細解說
 
 ## 26 大畜卦 (山天大畜) 爻辭故事《妄想易經》
 
- * ### 26 大畜卦 卦名意義《妄想易經》 
+ * ### 《易經》 26 大畜卦 (1/5) 上回故事 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_liGf4pPyBEY.jpg)](https://www.youtube.com/watch?v=liGf4pPyBEY&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
+   [![Thumbnail](thumbnails/th_7AeR_z2BYJo.jpg)](https://www.youtube.com/watch?v=7AeR_z2BYJo&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
 
- * ### 26 大畜卦 上回故事《妄想易經》 
+ * ### 《易經》 26 大畜卦 (2/5) 卦名意義 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_e3yIGxHXMTw.jpg)](https://www.youtube.com/watch?v=e3yIGxHXMTw&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
+   [![Thumbnail](thumbnails/th_4g8aLktjRnQ.jpg)](https://www.youtube.com/watch?v=4g8aLktjRnQ&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
 
- * ### 26 大畜卦 下卦(天) 爻辭故事《妄想易經》 
+ * ### 《易經》 26 大畜卦 (3/5) 下卦(天) 爻辭故事 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_3jTJsdzzeuY.jpg)](https://www.youtube.com/watch?v=3jTJsdzzeuY&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
+   [![Thumbnail](thumbnails/th_bmb4X0kiVQg.jpg)](https://www.youtube.com/watch?v=bmb4X0kiVQg&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
 
- * ### 26 大畜卦 上卦(山) 爻辭故事《妄想易經》 
+ * ### 《易經》 26 大畜卦 (4/5) 上卦(山) 爻辭故事 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_RqWIt8vl5os.jpg)](https://www.youtube.com/watch?v=RqWIt8vl5os&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
+   [![Thumbnail](thumbnails/th_aUmuvzbAfyg.jpg)](https://www.youtube.com/watch?v=aUmuvzbAfyg&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
 
- * ### 26 大畜卦 其他補充《妄想易經》 
+ * ### 《易經》 26 大畜卦 (5/5) 卦辭總結 《妄想易經》(**更新2024/1/2**） 
 
-   [![Thumbnail](thumbnails/th_AuGZti5fz6w.jpg)](https://www.youtube.com/watch?v=AuGZti5fz6w&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
+   [![Thumbnail](thumbnails/th_EdXr449cugE.jpg)](https://www.youtube.com/watch?v=EdXr449cugE&list=PLoRTqlX8GVZeDKX6QZMf8o2ORQtHVlVtS){:target="_blank"}
 
 ## 27 頤卦 (山雷頤) 爻辭故事《妄想易經》
 
