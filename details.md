@@ -609,6 +609,26 @@ title: 六十四卦：詳細解說
 
    [![Thumbnail](thumbnails/th_VDvHWfqJjn0.jpg)](https://www.youtube.com/watch?v=VDvHWfqJjn0&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 
+ * ### 27 頤卦 上回提及 
+
+   [![Thumbnail](thumbnails/th_9ZT8uO75Rt0.jpg)](https://www.youtube.com/watch?v=9ZT8uO75Rt0&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
+
+ * ### 27 頤卦卦名 
+
+   [![Thumbnail](thumbnails/th_KAVZJnPqhlU.jpg)](https://www.youtube.com/watch?v=KAVZJnPqhlU&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
+
+ * ### 27 頤卦 下卦 
+
+   [![Thumbnail](thumbnails/th_xjOqmgm_8es.jpg)](https://www.youtube.com/watch?v=xjOqmgm_8es&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
+
+ * ### 27 頤卦 上卦 
+
+   [![Thumbnail](thumbnails/th_C6sjRzA51Q4.jpg)](https://www.youtube.com/watch?v=C6sjRzA51Q4&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
+
+ * ### 27 頤卦卦辭 
+
+   [![Thumbnail](thumbnails/th_Qni9VGblGXs.jpg)](https://www.youtube.com/watch?v=Qni9VGblGXs&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
+
 ## 28 大過卦 (澤風大過) 爻辭故事《妄想易經》
 
  * ### 28 大過卦 卦名意義《妄想易經》 
