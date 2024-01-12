@@ -589,43 +589,23 @@ title: 六十四卦：詳細解說
 
 ## 27 頤卦 (山雷頤) 爻辭故事《妄想易經》
 
- * ### 27 頤卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_SDh3Dfo_dTI.jpg)](https://www.youtube.com/watch?v=SDh3Dfo_dTI&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
-
- * ### 27 頤卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_-fKda3vFmOk.jpg)](https://www.youtube.com/watch?v=-fKda3vFmOk&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
-
- * ### 27 頤卦 下卦(雷) 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_qcifIKZts2E.jpg)](https://www.youtube.com/watch?v=qcifIKZts2E&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
-
- * ### 27 頤卦 上卦(山) 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_aiYu25cG_f4.jpg)](https://www.youtube.com/watch?v=aiYu25cG_f4&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
-
- * ### 27 頤卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_VDvHWfqJjn0.jpg)](https://www.youtube.com/watch?v=VDvHWfqJjn0&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
-
- * ### 27 頤卦 上回提及 
+ * ### 《易經》27 頤卦 (1/5) 上回故事《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_9ZT8uO75Rt0.jpg)](https://www.youtube.com/watch?v=9ZT8uO75Rt0&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 
- * ### 27 頤卦卦名 
+ * ### 《易經》27 頤卦 (2/5) 卦名意義《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_KAVZJnPqhlU.jpg)](https://www.youtube.com/watch?v=KAVZJnPqhlU&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 
- * ### 27 頤卦 下卦 
+ * ### 《易經》27 頤卦 (3/5) 下卦(雷) 爻辭故事《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_xjOqmgm_8es.jpg)](https://www.youtube.com/watch?v=xjOqmgm_8es&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 
- * ### 27 頤卦 上卦 
+ * ### 《易經》27 頤卦 (4/5) 上卦(山) 爻辭故事《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_C6sjRzA51Q4.jpg)](https://www.youtube.com/watch?v=C6sjRzA51Q4&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 
- * ### 27 頤卦卦辭 
+ * ### 《易經》 27 頤卦 (5/5) 卦辭總結 《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_Qni9VGblGXs.jpg)](https://www.youtube.com/watch?v=Qni9VGblGXs&list=PLoRTqlX8GVZcnlmqV_pURgGT86LMcZwYq){:target="_blank"}
 

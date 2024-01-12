@@ -159,9 +159,9 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_7AeR_z2BYJo.jpg)](https://www.youtube.com/watch?v=7AeR_z2BYJo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 27 頤卦 上回故事《妄想易經》 
+ * ### 《易經》27 頤卦 (1/5) 上回故事《妄想易經》 (**更新2024/1/11**) 
 
-   [![Thumbnail](thumbnails/th_-fKda3vFmOk.jpg)](https://www.youtube.com/watch?v=-fKda3vFmOk&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+   [![Thumbnail](thumbnails/th_9ZT8uO75Rt0.jpg)](https://www.youtube.com/watch?v=9ZT8uO75Rt0&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
  * ### 28 大過卦 上回故事《妄想易經》 
 
@@ -222,10 +222,6 @@ title: 簡介視頻
  * ### 42 益卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_0acHv1knLiI.jpg)](https://www.youtube.com/watch?v=0acHv1knLiI&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
- * ### 27 頤卦 上回提及 
-
-   [![Thumbnail](thumbnails/th_9ZT8uO75Rt0.jpg)](https://www.youtube.com/watch?v=9ZT8uO75Rt0&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
 ## 1-64卦易經卦辭總結 (濃縮版) (不含爻辭解釋)
 
@@ -337,7 +333,7 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_EdXr449cugE.jpg)](https://www.youtube.com/watch?v=EdXr449cugE&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
- * ### 27 頤卦卦辭 
+ * ### 《易經》 27 頤卦 (5/5) 卦辭總結 《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_Qni9VGblGXs.jpg)](https://www.youtube.com/watch?v=Qni9VGblGXs&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
