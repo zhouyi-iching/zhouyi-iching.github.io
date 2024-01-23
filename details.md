@@ -611,26 +611,6 @@ title: 六十四卦：詳細解說
 
 ## 28 大過卦 (澤風大過) 爻辭故事《妄想易經》
 
- * ### 28 大過卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_S6TDgkV9cpU.jpg)](https://www.youtube.com/watch?v=S6TDgkV9cpU&list=PLoRTqlX8GVZdvaR8mh5q3ljEv9D1nj9l6){:target="_blank"}
-
- * ### 28 大過卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_QWLzgl5TPpM.jpg)](https://www.youtube.com/watch?v=QWLzgl5TPpM&list=PLoRTqlX8GVZdvaR8mh5q3ljEv9D1nj9l6){:target="_blank"}
-
- * ### 28 大過卦 下卦(風) 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_rjSeGnh6Wpk.jpg)](https://www.youtube.com/watch?v=rjSeGnh6Wpk&list=PLoRTqlX8GVZdvaR8mh5q3ljEv9D1nj9l6){:target="_blank"}
-
- * ### 28 大過卦 上卦(澤) 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_GaxkWhF33ek.jpg)](https://www.youtube.com/watch?v=GaxkWhF33ek&list=PLoRTqlX8GVZdvaR8mh5q3ljEv9D1nj9l6){:target="_blank"}
-
- * ### 28 大過卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_QkbDlqgDFTQ.jpg)](https://www.youtube.com/watch?v=QkbDlqgDFTQ&list=PLoRTqlX8GVZdvaR8mh5q3ljEv9D1nj9l6){:target="_blank"}
-
 ## 29 坎卦 (水水坎) 爻辭故事《妄想易經》
 
  * ### 29 坎卦 卦名意義《妄想易經》 

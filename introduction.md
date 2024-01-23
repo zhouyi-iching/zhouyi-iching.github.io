@@ -163,10 +163,6 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_9ZT8uO75Rt0.jpg)](https://www.youtube.com/watch?v=9ZT8uO75Rt0&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 28 大過卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_QWLzgl5TPpM.jpg)](https://www.youtube.com/watch?v=QWLzgl5TPpM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
  * ### 29 坎卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_FM8ei-yIbYU.jpg)](https://www.youtube.com/watch?v=FM8ei-yIbYU&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
