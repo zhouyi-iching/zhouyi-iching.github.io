@@ -219,6 +219,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_0acHv1knLiI.jpg)](https://www.youtube.com/watch?v=0acHv1knLiI&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
+ * ### 28 大過卦 上回提及 
+
+   [![Thumbnail](thumbnails/th_ubn9mDLnyRM.jpg)](https://www.youtube.com/watch?v=ubn9mDLnyRM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+
 ## 1-64卦易經卦辭總結 (濃縮版) (不含爻辭解釋)
 
  * ### 易經64卦卦辭總結(濃縮版)前言 
@@ -332,6 +336,10 @@ title: 簡介視頻
  * ### 《易經》 27 頤卦 (5/5) 卦辭總結 《妄想易經》 (**更新2024/1/11**) 
 
    [![Thumbnail](thumbnails/th_Qni9VGblGXs.jpg)](https://www.youtube.com/watch?v=Qni9VGblGXs&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+ * ### 28 大過卦 卦辭 
+
+   [![Thumbnail](thumbnails/th_c2NUWl5ojiA.jpg)](https://www.youtube.com/watch?v=c2NUWl5ojiA&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
 
 
