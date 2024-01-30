@@ -167,10 +167,6 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_ubn9mDLnyRM.jpg)](https://www.youtube.com/watch?v=ubn9mDLnyRM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 29 坎卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_FM8ei-yIbYU.jpg)](https://www.youtube.com/watch?v=FM8ei-yIbYU&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
  * ### 30 離卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_myl4Skq4qtA.jpg)](https://www.youtube.com/watch?v=myl4Skq4qtA&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
@@ -340,6 +336,12 @@ title: 簡介視頻
  * ### 《易經》 28 大過卦 (5/6) 卦辭總結 《妄想易經》 (**更新2024/1/25**) 
 
    [![Thumbnail](thumbnails/th_c2NUWl5ojiA.jpg)](https://www.youtube.com/watch?v=c2NUWl5ojiA&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+## 從《易經》看名句《妄想易經》
+
+ * ### 從《易經》看名句 「加我數年，五十以學易，可以無大過矣。」《妄想易經》 
+
+   [![Thumbnail](thumbnails/th_UcO2mNULv8o.jpg)](https://www.youtube.com/watch?v=UcO2mNULv8o&list=PLoRTqlX8GVZeko_wQlKK8ZRd1rEUmULpK){:target="_blank"}
 
 
 

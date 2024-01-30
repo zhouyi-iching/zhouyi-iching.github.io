@@ -637,26 +637,6 @@ title: 六十四卦：詳細解說
 
 ## 29 坎卦 (水水坎) 爻辭故事《妄想易經》
 
- * ### 29 坎卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_9HC7G3KumXM.jpg)](https://www.youtube.com/watch?v=9HC7G3KumXM&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
-
- * ### 29 坎卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_FM8ei-yIbYU.jpg)](https://www.youtube.com/watch?v=FM8ei-yIbYU&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
-
- * ### 29 坎卦 下卦水 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_00WwDfT7PCY.jpg)](https://www.youtube.com/watch?v=00WwDfT7PCY&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
-
- * ### 29 坎卦 上卦水 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_-VJL9x7qgAA.jpg)](https://www.youtube.com/watch?v=-VJL9x7qgAA&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
-
- * ### 29 坎卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_gpo06VPOgwc.jpg)](https://www.youtube.com/watch?v=gpo06VPOgwc&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
-
 ## 30 離卦 (火火離) 爻辭故事《妄想易經》
 
  * ### 30 離卦 卦名意義《妄想易經》 
