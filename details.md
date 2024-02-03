@@ -637,6 +637,26 @@ title: 六十四卦：詳細解說
 
 ## 29 坎卦 (水水坎) 爻辭故事《妄想易經》
 
+ * ### 《易經》 29 坎卦 (1/5) 上回故事《妄想易經》 (**更新2024/2/2**) 
+
+   [![Thumbnail](thumbnails/th_5AScaFZzYpA.jpg)](https://www.youtube.com/watch?v=5AScaFZzYpA&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
+
+ * ### 《易經》 29 坎卦 (2/5) 卦名意義《妄想易經》 (**更新2024/2/2**) 
+
+   [![Thumbnail](thumbnails/th_dRMsTtJYMAQ.jpg)](https://www.youtube.com/watch?v=dRMsTtJYMAQ&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
+
+ * ### 《易經》 29 坎卦 (3/5) 下卦(水) 爻辭故事《妄想易經》 (**更新2024/2/2**) 
+
+   [![Thumbnail](thumbnails/th_CjGlUMA6ivU.jpg)](https://www.youtube.com/watch?v=CjGlUMA6ivU&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
+
+ * ### 《易經》 29 坎卦 (4/5) 上卦(水) 爻辭故事《妄想易經》 (**更新2024/2/2**) 
+
+   [![Thumbnail](thumbnails/th_08CGVTDePX0.jpg)](https://www.youtube.com/watch?v=08CGVTDePX0&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
+
+ * ### 《易經》 29 坎卦 (5/5) 卦辭總結《妄想易經》 (**更新2024/2/2**) 
+
+   [![Thumbnail](thumbnails/th_PvBvDnve8pU.jpg)](https://www.youtube.com/watch?v=PvBvDnve8pU&list=PLoRTqlX8GVZc_zwvq3d4PElR9UKuTQnVA){:target="_blank"}
+
 ## 30 離卦 (火火離) 爻辭故事《妄想易經》
 
  * ### 30 離卦 卦名意義《妄想易經》 
