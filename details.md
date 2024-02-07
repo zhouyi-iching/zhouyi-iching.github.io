@@ -659,25 +659,29 @@ title: 六十四卦：詳細解說
 
 ## 30 離卦 (火火離) 爻辭故事《妄想易經》
 
- * ### 30 離卦 卦名意義《妄想易經》 
+ * ### 《易經》30 離卦 (1/6) 上回故事《妄想易經》 (**更新2024/2/7**) 
 
-   [![Thumbnail](thumbnails/th_X0EjTTprOlE.jpg)](https://www.youtube.com/watch?v=X0EjTTprOlE&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+   [![Thumbnail](thumbnails/th_CrugO1dFvVU.jpg)](https://www.youtube.com/watch?v=CrugO1dFvVU&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
 
- * ### 30 離卦 上回故事《妄想易經》 
+ * ### 《易經》30 離卦 (2/6) 卦名意義《妄想易經》 (**更新2024/2/7**) 
 
-   [![Thumbnail](thumbnails/th_myl4Skq4qtA.jpg)](https://www.youtube.com/watch?v=myl4Skq4qtA&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+   [![Thumbnail](thumbnails/th_IiztZ-jw5DE.jpg)](https://www.youtube.com/watch?v=IiztZ-jw5DE&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
 
- * ### 30 離卦 下卦火 爻辭故事《妄想易經》 
+ * ### 《易經》30 離卦 (3/6) 下卦(火) 爻辭故事《妄想易經》 (**更新2024/2/7**) 
 
-   [![Thumbnail](thumbnails/th_BKfcEVYP-KY.jpg)](https://www.youtube.com/watch?v=BKfcEVYP-KY&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+   [![Thumbnail](thumbnails/th_H8kdnvMplrI.jpg)](https://www.youtube.com/watch?v=H8kdnvMplrI&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
 
- * ### 30 離卦 上卦火 爻辭故事《妄想易經》 
+ * ### 《易經》30 離卦 (4/6) 上卦(火) 爻辭故事《妄想易經》 (**更新2024/2/7**) 
 
-   [![Thumbnail](thumbnails/th_kGON3C9ZH-E.jpg)](https://www.youtube.com/watch?v=kGON3C9ZH-E&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+   [![Thumbnail](thumbnails/th_W2_ysxbjfyY.jpg)](https://www.youtube.com/watch?v=W2_ysxbjfyY&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
 
- * ### 30 離卦 其他補充《妄想易經》 
+ * ### 《易經》30 離卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/2/7**) 
 
-   [![Thumbnail](thumbnails/th_eiWapfca5qc.jpg)](https://www.youtube.com/watch?v=eiWapfca5qc&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+   [![Thumbnail](thumbnails/th_hs0Efrp189o.jpg)](https://www.youtube.com/watch?v=hs0Efrp189o&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
+
+ * ### 《易經》30 離卦 (6/6) 其他補充《妄想易經》 (**更新2024/2/7**) 
+
+   [![Thumbnail](thumbnails/th_OOcDcRS-49Q.jpg)](https://www.youtube.com/watch?v=OOcDcRS-49Q&list=PLoRTqlX8GVZcc4qnI0VtA6f0W-QREdkuy){:target="_blank"}
 
 ## 31 咸卦 (澤山咸) 爻辭故事《妄想易經》
 
