@@ -685,25 +685,9 @@ title: 六十四卦：詳細解說
 
 ## 31 咸卦 (澤山咸) 爻辭故事《妄想易經》
 
- * ### 31 咸卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_M5ti-4uzoa4.jpg)](https://www.youtube.com/watch?v=M5ti-4uzoa4&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
-
  * ### 31 咸卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_C6lhUlM5iM4.jpg)](https://www.youtube.com/watch?v=C6lhUlM5iM4&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
-
- * ### 31 咸卦 下卦山 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_XnOGYLNxMi4.jpg)](https://www.youtube.com/watch?v=XnOGYLNxMi4&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
-
- * ### 31 咸卦 上卦澤 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_3FenXkXL7Yk.jpg)](https://www.youtube.com/watch?v=3FenXkXL7Yk&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
-
- * ### 31 咸卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_uCWMUYtQSI4.jpg)](https://www.youtube.com/watch?v=uCWMUYtQSI4&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
 
 ## 32 恆卦 (雷風恆) 爻辭故事《妄想易經》
 
