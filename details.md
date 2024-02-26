@@ -685,9 +685,29 @@ title: 六十四卦：詳細解說
 
 ## 31 咸卦 (澤山咸) 爻辭故事《妄想易經》
 
- * ### 31 咸卦 上回故事《妄想易經》 
+ * ### 《易經》 31 咸卦 (1/6) 上回故事《妄想易經》 (**更新2024/2/25**) 
 
-   [![Thumbnail](thumbnails/th_C6lhUlM5iM4.jpg)](https://www.youtube.com/watch?v=C6lhUlM5iM4&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+   [![Thumbnail](thumbnails/th_umQLFTWJ-zo.jpg)](https://www.youtube.com/watch?v=umQLFTWJ-zo&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+
+ * ### 《易經》 31 咸卦 (2/6) 卦名意義《妄想易經》 (**更新2024/2/25**) 
+
+   [![Thumbnail](thumbnails/th_WBamAzpV47s.jpg)](https://www.youtube.com/watch?v=WBamAzpV47s&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+
+ * ### 《易經》 31 咸卦 (3/6) 下卦山 爻辭故事《妄想易經》 (**更新2024/2/25**) 
+
+   [![Thumbnail](thumbnails/th_uLYWBkA2JsM.jpg)](https://www.youtube.com/watch?v=uLYWBkA2JsM&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+
+ * ### 《易經》 31 咸卦 (4/6) 上卦澤 爻辭故事《妄想易經》 (**更新2024/2/25**) 
+
+   [![Thumbnail](thumbnails/th_dziRL6wo8jk.jpg)](https://www.youtube.com/watch?v=dziRL6wo8jk&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+
+ * ### 《易經》 31 咸卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/2/25**) 
+
+   [![Thumbnail](thumbnails/th_gY-wmNoFqNA.jpg)](https://www.youtube.com/watch?v=gY-wmNoFqNA&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
+
+ * ### 《易經》 31 咸卦 (6/6) 其他補充《妄想易經》 (**更新2024/2/25**) 
+
+   [![Thumbnail](thumbnails/th_T1QjmVUt55Y.jpg)](https://www.youtube.com/watch?v=T1QjmVUt55Y&list=PLoRTqlX8GVZcd5CURQ-CN1ak3t1g8pkV3){:target="_blank"}
 
 ## 32 恆卦 (雷風恆) 爻辭故事《妄想易經》
 
