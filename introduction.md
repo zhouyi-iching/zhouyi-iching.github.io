@@ -179,10 +179,6 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_umQLFTWJ-zo.jpg)](https://www.youtube.com/watch?v=umQLFTWJ-zo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 32 恆卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_p3gPaVq8Ubg.jpg)](https://www.youtube.com/watch?v=p3gPaVq8Ubg&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
  * ### 33 遯卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_IsHjfnw605E.jpg)](https://www.youtube.com/watch?v=IsHjfnw605E&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}

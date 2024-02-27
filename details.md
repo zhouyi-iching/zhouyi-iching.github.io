@@ -711,26 +711,6 @@ title: 六十四卦：詳細解說
 
 ## 32 恆卦 (雷風恆) 爻辭故事《妄想易經》
 
- * ### 32 恆卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_OxnpV810ZyY.jpg)](https://www.youtube.com/watch?v=OxnpV810ZyY&list=PLoRTqlX8GVZe0Sk4anuXi6lAbFNEPLc3l){:target="_blank"}
-
- * ### 32 恆卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_p3gPaVq8Ubg.jpg)](https://www.youtube.com/watch?v=p3gPaVq8Ubg&list=PLoRTqlX8GVZe0Sk4anuXi6lAbFNEPLc3l){:target="_blank"}
-
- * ### 32 恆卦 下卦風 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_EyjDIP5pu94.jpg)](https://www.youtube.com/watch?v=EyjDIP5pu94&list=PLoRTqlX8GVZe0Sk4anuXi6lAbFNEPLc3l){:target="_blank"}
-
- * ### 32 恆卦 上卦雷 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_0ZEaUQ8z7Ac.jpg)](https://www.youtube.com/watch?v=0ZEaUQ8z7Ac&list=PLoRTqlX8GVZe0Sk4anuXi6lAbFNEPLc3l){:target="_blank"}
-
- * ### 32 恆卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_0UUvVhkZB28.jpg)](https://www.youtube.com/watch?v=0UUvVhkZB28&list=PLoRTqlX8GVZe0Sk4anuXi6lAbFNEPLc3l){:target="_blank"}
-
 ## 33 遯卦 (天山遯) 爻辭故事《妄想易經》
 
  * ### 33 遯卦 卦名意義《妄想易經》 
