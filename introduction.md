@@ -355,6 +355,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_UcO2mNULv8o.jpg)](https://www.youtube.com/watch?v=UcO2mNULv8o&list=PLoRTqlX8GVZeko_wQlKK8ZRd1rEUmULpK){:target="_blank"}
 
+ * ### 從《易經》看名句「人恆過，然後能改…國恆亡，然後知生於憂患而死於安樂也。」《妄想易經》 
+
+   [![Thumbnail](thumbnails/th_eAOSX__5mcY.jpg)](https://www.youtube.com/watch?v=eAOSX__5mcY&list=PLoRTqlX8GVZeko_wQlKK8ZRd1rEUmULpK){:target="_blank"}
+
 
 
     <script>
