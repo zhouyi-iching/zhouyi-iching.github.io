@@ -179,6 +179,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_umQLFTWJ-zo.jpg)](https://www.youtube.com/watch?v=umQLFTWJ-zo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
+ * ### 《易經》 32 恆卦 (1/6) 上回故事《妄想易經》 (**更新2024/3/9**) 
+
+   [![Thumbnail](thumbnails/th_8EvA-spSeUw.jpg)](https://www.youtube.com/watch?v=8EvA-spSeUw&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+
  * ### 33 遯卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_IsHjfnw605E.jpg)](https://www.youtube.com/watch?v=IsHjfnw605E&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
@@ -348,6 +352,10 @@ title: 簡介視頻
  * ### 《易經》 31 咸卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/2/25**) 
 
    [![Thumbnail](thumbnails/th_gY-wmNoFqNA.jpg)](https://www.youtube.com/watch?v=gY-wmNoFqNA&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+ * ### 《易經》 32 恆卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/3/9**) 
+
+   [![Thumbnail](thumbnails/th_KC6w5kzkTNw.jpg)](https://www.youtube.com/watch?v=KC6w5kzkTNw&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
 ## 從《易經》看名句《妄想易經》
 
