@@ -183,14 +183,6 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_8EvA-spSeUw.jpg)](https://www.youtube.com/watch?v=8EvA-spSeUw&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 33 遯卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_IsHjfnw605E.jpg)](https://www.youtube.com/watch?v=IsHjfnw605E&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
- * ### 34 大壯卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_YhfPNH564ps.jpg)](https://www.youtube.com/watch?v=YhfPNH564ps&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
  * ### 35 晉卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_CSCET8vBOyM.jpg)](https://www.youtube.com/watch?v=CSCET8vBOyM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}

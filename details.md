@@ -737,43 +737,7 @@ title: 六十四卦：詳細解說
 
 ## 33 遯卦 (天山遯) 爻辭故事《妄想易經》
 
- * ### 33 遯卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_rW_ZTSFKOPc.jpg)](https://www.youtube.com/watch?v=rW_ZTSFKOPc&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
-
- * ### 33 遯卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_IsHjfnw605E.jpg)](https://www.youtube.com/watch?v=IsHjfnw605E&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
-
- * ### 33 遯卦 下卦山 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_aJ-WWquDf78.jpg)](https://www.youtube.com/watch?v=aJ-WWquDf78&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
-
- * ### 33 遯卦 上卦天 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_Z9_kq4GJKaE.jpg)](https://www.youtube.com/watch?v=Z9_kq4GJKaE&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
-
 ## 34 大壯卦 (雷天大壯) 爻辭故事《妄想易經》
-
- * ### 34 大壯卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_r7rIdyPbOGo.jpg)](https://www.youtube.com/watch?v=r7rIdyPbOGo&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
-
- * ### 34 大壯卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_YhfPNH564ps.jpg)](https://www.youtube.com/watch?v=YhfPNH564ps&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
-
- * ### 34 大壯卦 下卦天 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_SFtUMkWRjus.jpg)](https://www.youtube.com/watch?v=SFtUMkWRjus&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
-
- * ### 34 大壯卦 上卦雷 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_olpmJuCvlCY.jpg)](https://www.youtube.com/watch?v=olpmJuCvlCY&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
-
- * ### 34 大壯卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_Uh524k_ocRA.jpg)](https://www.youtube.com/watch?v=Uh524k_ocRA&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
 
 ## 35 晉卦 (火地晉) 爻辭故事《妄想易經》
 
