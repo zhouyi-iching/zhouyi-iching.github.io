@@ -737,6 +737,26 @@ title: 六十四卦：詳細解說
 
 ## 33 遯卦 (天山遯) 爻辭故事《妄想易經》
 
+ * ### 《易經》 33 遯卦 (1/5) 上回故事《妄想易經》(**更新2024/3/18**) 
+
+   [![Thumbnail](thumbnails/th_QQghGghEAME.jpg)](https://www.youtube.com/watch?v=QQghGghEAME&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
+
+ * ### 《易經》 33 遯卦 (2/5) 卦名意義《妄想易經》(**更新2024/3/18**) 
+
+   [![Thumbnail](thumbnails/th_yQm9vXjrkRU.jpg)](https://www.youtube.com/watch?v=yQm9vXjrkRU&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
+
+ * ### 《易經》 33 遯卦 (3/5) 下卦山 爻辭故事《妄想易經》(**更新2024/3/18**) 
+
+   [![Thumbnail](thumbnails/th_nOx655QRdg4.jpg)](https://www.youtube.com/watch?v=nOx655QRdg4&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
+
+ * ### 《易經》 33 遯卦 (4/5) 上卦天 爻辭故事《妄想易經》(**更新2024/3/18**) 
+
+   [![Thumbnail](thumbnails/th_ZaH61nSrJFM.jpg)](https://www.youtube.com/watch?v=ZaH61nSrJFM&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
+
+ * ### 《易經》33 遯卦 (5/5) 卦辭總結《妄想易經》(**更新2024/3/18**) 
+
+   [![Thumbnail](thumbnails/th_gVfd1lw3W88.jpg)](https://www.youtube.com/watch?v=gVfd1lw3W88&list=PLoRTqlX8GVZeZFHOsegFiZl1JS3-d4pJT){:target="_blank"}
+
 ## 34 大壯卦 (雷天大壯) 爻辭故事《妄想易經》
 
 ## 35 晉卦 (火地晉) 爻辭故事《妄想易經》
