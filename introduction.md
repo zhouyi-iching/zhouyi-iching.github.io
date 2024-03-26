@@ -187,6 +187,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_QQghGghEAME.jpg)](https://www.youtube.com/watch?v=QQghGghEAME&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
+ * ### 《易經》 34 大壯卦 (1/6) 上回故事《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_9HsJWRIGgYo.jpg)](https://www.youtube.com/watch?v=9HsJWRIGgYo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+
  * ### 35 晉卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_CSCET8vBOyM.jpg)](https://www.youtube.com/watch?v=CSCET8vBOyM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
@@ -357,6 +361,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_gVfd1lw3W88.jpg)](https://www.youtube.com/watch?v=gVfd1lw3W88&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
+ * ### 《易經》 34 大壯卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_CUXmOduUVE4.jpg)](https://www.youtube.com/watch?v=CUXmOduUVE4&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
 ## 從《易經》看名句《妄想易經》
 
  * ### 從《易經》看名句 「加我數年，五十以學易，可以無大過矣。」《妄想易經》 
@@ -366,6 +374,10 @@ title: 簡介視頻
  * ### 從《易經》看名句「人恆過，然後能改…國恆亡，然後知生於憂患而死於安樂也。」《妄想易經》 
 
    [![Thumbnail](thumbnails/th_eAOSX__5mcY.jpg)](https://www.youtube.com/watch?v=eAOSX__5mcY&list=PLoRTqlX8GVZeko_wQlKK8ZRd1rEUmULpK){:target="_blank"}
+
+ * ### 從《易經》看名句「非禮勿視，非禮勿聽，非禮勿言，非禮勿動。」 
+
+   [![Thumbnail](thumbnails/th_puYDi1_UAL0.jpg)](https://www.youtube.com/watch?v=puYDi1_UAL0&list=PLoRTqlX8GVZeko_wQlKK8ZRd1rEUmULpK){:target="_blank"}
 
 
 

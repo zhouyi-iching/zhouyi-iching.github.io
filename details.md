@@ -759,6 +759,30 @@ title: 六十四卦：詳細解說
 
 ## 34 大壯卦 (雷天大壯) 爻辭故事《妄想易經》
 
+ * ### 《易經》 34 大壯卦 (1/6) 上回故事《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_9HsJWRIGgYo.jpg)](https://www.youtube.com/watch?v=9HsJWRIGgYo&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
+ * ### 《易經》 34 大壯卦 (2/6) 卦名意義《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_8wkuI_GeA44.jpg)](https://www.youtube.com/watch?v=8wkuI_GeA44&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
+ * ### 《易經》 34 大壯卦 (3/6) 下卦天 爻辭故事《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_asUvYlNvCF8.jpg)](https://www.youtube.com/watch?v=asUvYlNvCF8&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
+ * ### 《易經》 34 大壯卦 (4/6) 上卦雷 爻辭故事《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_zhChEZlx-5Y.jpg)](https://www.youtube.com/watch?v=zhChEZlx-5Y&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
+ * ### 《易經》 34 大壯卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_CUXmOduUVE4.jpg)](https://www.youtube.com/watch?v=CUXmOduUVE4&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
+ * ### 《易經》 34 大壯卦 (6/6) 其他補充《妄想易經》 (**更新2024/3/25**) 
+
+   [![Thumbnail](thumbnails/th_iNbyN3vRftw.jpg)](https://www.youtube.com/watch?v=iNbyN3vRftw&list=PLoRTqlX8GVZfFCxoAUwzQN4ygpY2Lc05R){:target="_blank"}
+
 ## 35 晉卦 (火地晉) 爻辭故事《妄想易經》
 
  * ### 35 晉卦 卦名意義《妄想易經》 
