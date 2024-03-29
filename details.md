@@ -785,43 +785,7 @@ title: 六十四卦：詳細解說
 
 ## 35 晉卦 (火地晉) 爻辭故事《妄想易經》
 
- * ### 35 晉卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_ecBXqIWdKt0.jpg)](https://www.youtube.com/watch?v=ecBXqIWdKt0&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
-
- * ### 35 晉卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_CSCET8vBOyM.jpg)](https://www.youtube.com/watch?v=CSCET8vBOyM&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
-
- * ### 35 晉卦 下卦地 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th__E4jzL3zAl0.jpg)](https://www.youtube.com/watch?v=_E4jzL3zAl0&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
-
- * ### 35 晉卦 上卦火 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_bJ9U-wy_pcM.jpg)](https://www.youtube.com/watch?v=bJ9U-wy_pcM&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
-
- * ### 35 晉卦 其他補充《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_etFpygjcM8Q.jpg)](https://www.youtube.com/watch?v=etFpygjcM8Q&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
-
 ## 36 明夷卦 (地火明夷) 爻辭故事《妄想易經》
-
- * ### 36 明夷卦 卦名意義《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_--YfYWSF8JE.jpg)](https://www.youtube.com/watch?v=--YfYWSF8JE&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
-
- * ### 36 明夷卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_ofFt55vL1c8.jpg)](https://www.youtube.com/watch?v=ofFt55vL1c8&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
-
- * ### 36 明夷卦 下卦火 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_DD29sppW9R4.jpg)](https://www.youtube.com/watch?v=DD29sppW9R4&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
-
- * ### 36 明夷卦 上卦地 爻辭故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_5yRZzeB8Ajw.jpg)](https://www.youtube.com/watch?v=5yRZzeB8Ajw&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
 
 ## 37 家人卦 (風火家人) 爻辭故事《妄想易經》
 

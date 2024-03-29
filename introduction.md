@@ -191,14 +191,6 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_9HsJWRIGgYo.jpg)](https://www.youtube.com/watch?v=9HsJWRIGgYo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 35 晉卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_CSCET8vBOyM.jpg)](https://www.youtube.com/watch?v=CSCET8vBOyM&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
- * ### 36 明夷卦 上回故事《妄想易經》 
-
-   [![Thumbnail](thumbnails/th_ofFt55vL1c8.jpg)](https://www.youtube.com/watch?v=ofFt55vL1c8&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
-
  * ### 37 家人卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_Cu7sIWu4VS4.jpg)](https://www.youtube.com/watch?v=Cu7sIWu4VS4&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
