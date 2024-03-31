@@ -191,6 +191,10 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_9HsJWRIGgYo.jpg)](https://www.youtube.com/watch?v=9HsJWRIGgYo&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
+ * ### 《易經》 35 晉卦 (1/5) 上回故事《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_ME3WB53Awak.jpg)](https://www.youtube.com/watch?v=ME3WB53Awak&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+
  * ### 37 家人卦 上回故事《妄想易經》 
 
    [![Thumbnail](thumbnails/th_Cu7sIWu4VS4.jpg)](https://www.youtube.com/watch?v=Cu7sIWu4VS4&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
@@ -356,6 +360,10 @@ title: 簡介視頻
  * ### 《易經》 34 大壯卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/3/25**) 
 
    [![Thumbnail](thumbnails/th_CUXmOduUVE4.jpg)](https://www.youtube.com/watch?v=CUXmOduUVE4&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+ * ### 《易經》 35 晉卦 (5/5) 卦辭總結《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_40Y33NH2aGA.jpg)](https://www.youtube.com/watch?v=40Y33NH2aGA&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
 ## 從《易經》看名句《妄想易經》
 

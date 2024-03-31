@@ -785,6 +785,26 @@ title: 六十四卦：詳細解說
 
 ## 35 晉卦 (火地晉) 爻辭故事《妄想易經》
 
+ * ### 《易經》 35 晉卦 (1/5) 上回故事《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_ME3WB53Awak.jpg)](https://www.youtube.com/watch?v=ME3WB53Awak&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
+
+ * ### 《易經》 35 晉卦 (2/5) 卦名意義《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_l44lEpqNCbo.jpg)](https://www.youtube.com/watch?v=l44lEpqNCbo&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
+
+ * ### 《易經》 35 晉卦 (3/5) 下卦地 爻辭故事《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_XeCx3HsznH8.jpg)](https://www.youtube.com/watch?v=XeCx3HsznH8&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
+
+ * ### 《易經》 35 晉卦 (4/5) 上卦火 爻辭故事《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_-JHRqAT-bKA.jpg)](https://www.youtube.com/watch?v=-JHRqAT-bKA&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
+
+ * ### 《易經》 35 晉卦 (5/5) 卦辭總結《妄想易經》 (**更新2024/3/30**) 
+
+   [![Thumbnail](thumbnails/th_40Y33NH2aGA.jpg)](https://www.youtube.com/watch?v=40Y33NH2aGA&list=PLoRTqlX8GVZfp2-5nkv3NqUMoQqGZx_dH){:target="_blank"}
+
 ## 36 明夷卦 (地火明夷) 爻辭故事《妄想易經》
 
 ## 37 家人卦 (風火家人) 爻辭故事《妄想易經》
