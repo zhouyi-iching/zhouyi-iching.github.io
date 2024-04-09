@@ -807,6 +807,26 @@ title: 六十四卦：詳細解說
 
 ## 36 明夷卦 (地火明夷) 爻辭故事《妄想易經》
 
+ * ### 《易經》 36 明夷卦 (1/5) 上回故事《妄想易經》 (**更新2024/4/8**) 
+
+   [![Thumbnail](thumbnails/th_SttOq7pUOhQ.jpg)](https://www.youtube.com/watch?v=SttOq7pUOhQ&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
+
+ * ### 《易經》 36 明夷卦 (2/5) 卦名意義《妄想易經》 (**更新2024/4/8**) 
+
+   [![Thumbnail](thumbnails/th_M4_VJh3COrE.jpg)](https://www.youtube.com/watch?v=M4_VJh3COrE&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
+
+ * ### 《易經》 36 明夷卦 (3/5) 下卦火 爻辭故事《妄想易經》 (**更新2024/4/8**) 
+
+   [![Thumbnail](thumbnails/th_RLeiHj4e2lY.jpg)](https://www.youtube.com/watch?v=RLeiHj4e2lY&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
+
+ * ### 《易經》 36 明夷卦 (4/5) 上卦地 爻辭故事《妄想易經》 (**更新2024/4/8**) 
+
+   [![Thumbnail](thumbnails/th_CrlBJEMw1Mw.jpg)](https://www.youtube.com/watch?v=CrlBJEMw1Mw&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
+
+ * ### 《易經》 36 明夷卦 (5/5) 卦辭總結《妄想易經》 (**更新2024/4/8**) 
+
+   [![Thumbnail](thumbnails/th_abRP_Tn9rM0.jpg)](https://www.youtube.com/watch?v=abRP_Tn9rM0&list=PLoRTqlX8GVZe6LYbxwoRB3t_4eUOwgYvI){:target="_blank"}
+
 ## 37 家人卦 (風火家人) 爻辭故事《妄想易經》
 
  * ### 37 家人卦 卦名意義《妄想易經》 
