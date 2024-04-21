@@ -829,25 +829,29 @@ title: 六十四卦：詳細解說
 
 ## 37 家人卦 (風火家人) 爻辭故事《妄想易經》
 
- * ### 37 家人卦 卦名意義《妄想易經》 
+ * ### 《易經》 37 家人卦 (1/6) 上回故事《妄想易經》(**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_95P7CeDEIIM.jpg)](https://www.youtube.com/watch?v=95P7CeDEIIM&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+   [![Thumbnail](thumbnails/th_VSG13zicIOg.jpg)](https://www.youtube.com/watch?v=VSG13zicIOg&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
- * ### 37 家人卦 上回故事《妄想易經》 
+ * ### 《易經》 37 家人卦 (2/6) 卦名意義《妄想易經》 (**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_Cu7sIWu4VS4.jpg)](https://www.youtube.com/watch?v=Cu7sIWu4VS4&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+   [![Thumbnail](thumbnails/th_pa5wkRA-mXU.jpg)](https://www.youtube.com/watch?v=pa5wkRA-mXU&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
- * ### 37 家人卦 下卦火 爻辭故事《妄想易經》 
+ * ### 《易經》 37 家人卦 (3/6) 下卦火 爻辭故事《妄想易經》 (**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_wriCPAeyZTg.jpg)](https://www.youtube.com/watch?v=wriCPAeyZTg&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+   [![Thumbnail](thumbnails/th_WHBFr1h2rj4.jpg)](https://www.youtube.com/watch?v=WHBFr1h2rj4&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
- * ### 37 家人卦 上卦風 爻辭故事《妄想易經》 
+ * ### 《易經》 37 家人卦 (4/6) 上卦風 爻辭故事《妄想易經》 (**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_EIh12FsNLpY.jpg)](https://www.youtube.com/watch?v=EIh12FsNLpY&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+   [![Thumbnail](thumbnails/th_-y9IWBaF5hI.jpg)](https://www.youtube.com/watch?v=-y9IWBaF5hI&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
- * ### 37 家人卦 其他補充《妄想易經》 
+ * ### 《易經》 37 家人卦 (5/6) 卦辭《妄想易經》 (**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_ReKtGNeQhng.jpg)](https://www.youtube.com/watch?v=ReKtGNeQhng&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+   [![Thumbnail](thumbnails/th_DKGcHfEELe8.jpg)](https://www.youtube.com/watch?v=DKGcHfEELe8&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
+
+ * ### 《易經》 37 家人卦 (6/6) 其他補充《妄想易經》 (**更新2024/4/20**) 
+
+   [![Thumbnail](thumbnails/th_cz3qNBFdehA.jpg)](https://www.youtube.com/watch?v=cz3qNBFdehA&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
 ## 38 睽卦 (火澤睽) 爻辭故事《妄想易經》
 

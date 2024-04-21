@@ -199,9 +199,9 @@ title: 簡介視頻
 
    [![Thumbnail](thumbnails/th_SttOq7pUOhQ.jpg)](https://www.youtube.com/watch?v=SttOq7pUOhQ&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
- * ### 37 家人卦 上回故事《妄想易經》 
+ * ### 《易經》 37 家人卦 (1/6) 上回故事《妄想易經》(**更新2024/4/20**) 
 
-   [![Thumbnail](thumbnails/th_Cu7sIWu4VS4.jpg)](https://www.youtube.com/watch?v=Cu7sIWu4VS4&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
+   [![Thumbnail](thumbnails/th_VSG13zicIOg.jpg)](https://www.youtube.com/watch?v=VSG13zicIOg&list=PLoRTqlX8GVZcJFN6zfujZpUaWtQA7hPjq){:target="_blank"}
 
  * ### 38 睽卦 上回故事《妄想易經》 
 
@@ -372,6 +372,10 @@ title: 簡介視頻
  * ### 《易經》 36 明夷卦 (5/5) 卦辭總結《妄想易經》 (**更新2024/4/8**) 
 
    [![Thumbnail](thumbnails/th_abRP_Tn9rM0.jpg)](https://www.youtube.com/watch?v=abRP_Tn9rM0&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
+
+ * ### 《易經》 37 家人卦 (5/6) 卦辭《妄想易經》 (**更新2024/4/20**) 
+
+   [![Thumbnail](thumbnails/th_DKGcHfEELe8.jpg)](https://www.youtube.com/watch?v=DKGcHfEELe8&list=PLoRTqlX8GVZfBEYTtcEkwIpi6sXzm3y6H){:target="_blank"}
 
 ## 從《易經》看名句《妄想易經》
 
