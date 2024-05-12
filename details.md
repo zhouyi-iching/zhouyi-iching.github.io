@@ -855,25 +855,25 @@ title: 六十四卦：詳細解說
 
 ## 38 睽卦 (火澤睽) 爻辭故事《妄想易經》
 
- * ### 38 睽卦 卦名意義《妄想易經》 
+ * ### 《易經》 38 睽卦 (1/5) 上回故事《妄想易經》 (**更新2024/5/11**) 
 
-   [![Thumbnail](thumbnails/th_U8OWBjpzncQ.jpg)](https://www.youtube.com/watch?v=U8OWBjpzncQ&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
+   [![Thumbnail](thumbnails/th_6jOjk3d5kEk.jpg)](https://www.youtube.com/watch?v=6jOjk3d5kEk&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
 
- * ### 38 睽卦 上回故事《妄想易經》 
+ * ### 《易經》 38 睽卦 (2/5) 卦名意義《妄想易經》 (**更新2024/5/11**) 
 
-   [![Thumbnail](thumbnails/th_vO9qehK78fA.jpg)](https://www.youtube.com/watch?v=vO9qehK78fA&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
+   [![Thumbnail](thumbnails/th_UbVCC4qMABg.jpg)](https://www.youtube.com/watch?v=UbVCC4qMABg&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
 
- * ### 38 睽卦 下卦澤 爻辭故事《妄想易經》 
+ * ### 《易經》 38 睽卦 (3/5) 下卦澤 爻辭故事《妄想易經》 (**更新2024/5/11**) 
 
-   [![Thumbnail](thumbnails/th_LRALay-84jY.jpg)](https://www.youtube.com/watch?v=LRALay-84jY&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
+   [![Thumbnail](thumbnails/th_N4MVtlgwFRM.jpg)](https://www.youtube.com/watch?v=N4MVtlgwFRM&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
 
- * ### 38 睽卦 上卦火 爻辭故事《妄想易經》 
+ * ### 《易經》 38 睽卦 (4/5) 上卦火 爻辭故事《妄想易經》 (**更新2024/5/11**) 
 
-   [![Thumbnail](thumbnails/th_oFaYffHaSQ4.jpg)](https://www.youtube.com/watch?v=oFaYffHaSQ4&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
+   [![Thumbnail](thumbnails/th_ou9f2dIdnXU.jpg)](https://www.youtube.com/watch?v=ou9f2dIdnXU&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
 
- * ### 38 睽卦 其他補充《妄想易經》 
+ * ### 《易經》 38 睽卦 (5/5) 卦辭《妄想易經》 (**更新2024/5/11**) 
 
-   [![Thumbnail](thumbnails/th_r3-q_gQLDxQ.jpg)](https://www.youtube.com/watch?v=r3-q_gQLDxQ&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
+   [![Thumbnail](thumbnails/th_NmwKWUDduLY.jpg)](https://www.youtube.com/watch?v=NmwKWUDduLY&list=PLoRTqlX8GVZcTvccLSHCN9p8CO58u7sZO){:target="_blank"}
 
 ## 39 蹇卦 (水山蹇) 爻辭故事《妄想易經》
 
