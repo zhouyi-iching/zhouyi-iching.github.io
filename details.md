@@ -845,7 +845,7 @@ title: 六十四卦：詳細解說
 
    [![Thumbnail](thumbnails/th_-y9IWBaF5hI.jpg)](https://www.youtube.com/watch?v=-y9IWBaF5hI&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
- * ### 《易經》 37 家人卦 (5/6) 卦辭《妄想易經》 (**更新2024/4/20**) 
+ * ### 《易經》 37 家人卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/4/20**) 
 
    [![Thumbnail](thumbnails/th_DKGcHfEELe8.jpg)](https://www.youtube.com/watch?v=DKGcHfEELe8&list=PLoRTqlX8GVZdFfX9BciEZM5T9TmNxQT1C){:target="_blank"}
 
@@ -877,25 +877,29 @@ title: 六十四卦：詳細解說
 
 ## 39 蹇卦 (水山蹇) 爻辭故事《妄想易經》
 
- * ### 39 蹇卦 卦名意義《妄想易經》 
+ * ### 《易經》 39 蹇卦 (1/6) 上回故事《妄想易經》 (**更新2024/5/19**) 
 
-   [![Thumbnail](thumbnails/th_v322KKUrm2w.jpg)](https://www.youtube.com/watch?v=v322KKUrm2w&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+   [![Thumbnail](thumbnails/th_YTIz6DBhGVQ.jpg)](https://www.youtube.com/watch?v=YTIz6DBhGVQ&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
 
- * ### 39 蹇卦 上回故事《妄想易經》 
+ * ### 《易經》 39 蹇卦 (2/6) 卦名意義《妄想易經》 (**更新2024/5/19**) 
 
-   [![Thumbnail](thumbnails/th_slMRRmqqYmY.jpg)](https://www.youtube.com/watch?v=slMRRmqqYmY&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+   [![Thumbnail](thumbnails/th_E1ZauWEN5XE.jpg)](https://www.youtube.com/watch?v=E1ZauWEN5XE&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
 
- * ### 39 蹇卦 下卦山 爻辭故事《妄想易經》 
+ * ### 《易經》 39 蹇卦 (3/6) 下卦山 爻辭故事《妄想易經》 (**更新2024/5/19**) 
 
-   [![Thumbnail](thumbnails/th_86uFn1KISzI.jpg)](https://www.youtube.com/watch?v=86uFn1KISzI&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+   [![Thumbnail](thumbnails/th_gNVFsPeYdtc.jpg)](https://www.youtube.com/watch?v=gNVFsPeYdtc&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
 
- * ### 39 蹇卦 上卦水 爻辭故事《妄想易經》 
+ * ### 《易經》 39 蹇卦 (4/6) 上卦水 爻辭故事《妄想易經》 (**更新2024/5/19**) 
 
-   [![Thumbnail](thumbnails/th_WtTnPkbM0Ho.jpg)](https://www.youtube.com/watch?v=WtTnPkbM0Ho&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+   [![Thumbnail](thumbnails/th_FoTwcBi7zwY.jpg)](https://www.youtube.com/watch?v=FoTwcBi7zwY&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
 
- * ### 39 蹇卦 其他補充《妄想易經》 
+ * ### 《易經》 39 蹇卦 (5/6) 卦辭總結《妄想易經》 (**更新2024/5/19**) 
 
-   [![Thumbnail](thumbnails/th_jnSvCwbCwMQ.jpg)](https://www.youtube.com/watch?v=jnSvCwbCwMQ&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+   [![Thumbnail](thumbnails/th_CgrovmBnHqQ.jpg)](https://www.youtube.com/watch?v=CgrovmBnHqQ&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
+
+ * ### 《易經》 39 蹇卦 (6/6) 其他補充《妄想易經》 (**更新2024/5/19**) 
+
+   [![Thumbnail](thumbnails/th_c2onYh8gm_A.jpg)](https://www.youtube.com/watch?v=c2onYh8gm_A&list=PLoRTqlX8GVZcP7ImYWYh8n4ARNW1QOd2R){:target="_blank"}
 
 ## 40 解卦 (雷水解) 爻辭故事《妄想易經》
 
